@@ -1,4 +1,4 @@
-# Unreleased
+# v5.2.0 - 2022-06-10
 
 Fixed
   * AZ-772: Update module code for Terraform `v1.2.2+` compatibility
